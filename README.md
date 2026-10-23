@@ -156,12 +156,6 @@ Errors share one shape:
 { "timestamp": "2026-01-01T10:00:00Z", "status": 404, "error": "Not Found", "message": "Student 7 not found" }
 ```
 
-## Screenshots
-
-| Login | Students | Schema |
-|---|---|---|
-| ![Login](docs/screenshots/login.svg) | ![Students](docs/screenshots/students.svg) | ![Schema](docs/screenshots/schema.svg) |
-
 ## Project layout
 
 ```
